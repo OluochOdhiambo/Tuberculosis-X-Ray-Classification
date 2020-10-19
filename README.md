@@ -3,6 +3,7 @@
 #### By **{OluochOdhiambo}**
 ## Task Description
 Tuberculosis (TB) is a global disease, found in every country in the world. It is the leading infectious cause of death worldwide. The World Health Organization estimates that 1.8 billion people—close to one quarter of the world's population—are infected with Mycobacterium tuberculosis (M.tb), the bacteria that causes TB. In 2018, 10 million fell ill from TB and 1.5 million died. With Tuberculosis infections still active as the COVID-19 pandemic continues, an automated tool to help identify TB has the potential to reduce hospital workload and optimize patient care during a time when hospitals are being overwhelmed by COVID-19 cases. This project entails:
+
 i. Building a Convolution Neural Network to classifiy X-Ray images.
 
 ii. Implement Image Augmentation to increase size of the data set.
