@@ -10,7 +10,6 @@ ii. Implement Image Augmentation to increase size of the data set.
 
 iii. Implement Transfer Learning using a pretrained model.
 
-
 ## Setup/Installation Requirements
 * Github
 * Jupyter Notebook
