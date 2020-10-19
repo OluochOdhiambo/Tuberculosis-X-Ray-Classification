@@ -13,8 +13,8 @@ iii. Implement Transfer Learning using a pretrained model.
 
 
 ### Setup/Installation Requirements
-* Github
-* Jupyter Notebook
+Github
+Jupyter Notebook
 
 ### Known Bugs
 This has no known bugs.
